@@ -1,0 +1,14 @@
+Debo desarrollar una landing page basica, sobre Cauchera el gordo en la carpeta images estan los logo y un par de imagenes de la cauchera.
+necesito que tenga un boton flotante a whatsapp que el formulario de contacto llegue al whatsapp que construyas la landing con la informacion 
+que hay internet. con respecto al contenido y los servicios, de la cauchera. por favor revisa su pagina de instagram y tiktok para 
+obtener la informacion. de igual forma su pagina de google maps. 
+La landing debe tener un diseño limpio y profesional, responsive para moviles y computadoras. ademas debe tener un diseño moderno y atractivo. usa la 
+ui ux pro max skill para que tenga un diseño de alta calidad, moderno y atractivo, que sea responsive para moviles y computadoras. 
+puedes usar como referencia una pagina hecha en google stitch
+
+
+instagram: https://www.instagram.com/cauchera.elgordo/
+whatsapp: 04225500009
+tiktok: https://www.tiktok.com/@cauchera.elgordo
+maps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3923.1413902093213!2d-66.869276!3d10.4895184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c2a5988aaad3be3%3A0xfc79d5d8c79deaf4!2sCauchera%20El%20Gordo!5e0!3m2!1ses-419!2sve!4v1786065888251!5m2!1ses-419!2sve" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
