@@ -119,7 +119,7 @@ h1, h2, h3, h4, .font-heading {
   left: 0;
   width: 100%;
   z-index: 1000;
-  padding: 1.2rem 0;
+  padding: 0.9rem 0;
   transition: var(--transition-normal);
   background: rgba(9, 13, 22, 0.85);
   backdrop-filter: blur(16px);
@@ -127,7 +127,7 @@ h1, h2, h3, h4, .font-heading {
 }
 
 .navbar.scrolled {
-  padding: 0.75rem 0;
+  padding: 0.6rem 0;
   background: rgba(9, 13, 22, 0.95);
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
 }
@@ -144,14 +144,18 @@ h1, h2, h3, h4, .font-heading {
 }
 
 .brand-logo img {
-  height: 48px;
+  height: 85px;
   width: auto;
   object-fit: contain;
-  transition: transform var(--transition-fast);
+  transition: height var(--transition-normal), transform var(--transition-fast);
+}
+
+.navbar.scrolled .brand-logo img {
+  height: 65px;
 }
 
 .brand-logo:hover img {
-  transform: scale(1.03);
+  transform: scale(1.04);
 }
 
 .nav-menu {
@@ -261,7 +265,7 @@ h1, h2, h3, h4, .font-heading {
 /* Hero Section */
 .hero {
   position: relative;
-  padding-top: 9rem;
+  padding-top: 10.5rem;
   padding-bottom: 5rem;
   background: radial-gradient(circle at 70% 20%, rgba(255, 87, 34, 0.15) 0%, transparent 50%),
               radial-gradient(circle at 10% 80%, rgba(30, 41, 59, 0.5) 0%, transparent 60%),
@@ -997,7 +1001,7 @@ h1, h2, h3, h4, .font-heading {
 }
 
 .footer-brand img {
-  height: 48px;
+  height: 85px;
   margin-bottom: 1.2rem;
 }
 
