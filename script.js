@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
       message += `Vehículo / Moto: *${vehicle}*\n`;
       message += `Servicio o Caucho solicitado: *${service}*\n`;
       if (detail) {
-        message += `Detalles / Medida: ${detail}\n`;
+        message += `Mensaje: ${detail}\n`;
       }
       message += `\nQuisiera consultar precio y disponibilidad. ¡Gracias!`;
 
